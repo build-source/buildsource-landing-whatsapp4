@@ -1,3 +1,16 @@
-# build-source/buildsource-landing-whatsapp4
+# BuildSource Landing Page
 
-Repositório gerenciado pela BuildSource Factory.
+Esta é uma landing page responsiva para a BuildSource, com um formulário de contato integrado ao WhatsApp.
+
+## Estrutura do Projeto
+
+- `index.html`: Estrutura da página.
+- `style.css`: Estilos da página.
+- `script.js`: Lógica do formulário de contato.
+- `README.md`: Documentação do projeto.
+- `package.json`: Configurações do projeto.
+
+## Como Usar
+
+1. Clone o repositório:
+   
